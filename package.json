@@ -1,0 +1,19 @@
+{
+  "name": "node-mock-server",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "ejs": "~2.3.3",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.2",
+    "moment":"~2.6.0",
+    "formidable" : "latest",
+    "opn": "^4.0.2"
+
+  }
+}
