@@ -14,6 +14,5 @@
     "moment":"~2.6.0",
     "formidable" : "latest",
     "opn": "^4.0.2"
-
   }
 }
