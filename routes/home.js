@@ -2,7 +2,7 @@
 var express = require('express');
 var router = express.Router();
 
-router.all('/layout', function(req, res, next) {
+router.all('/user-list', function(req, res, next) {
     var data={
         status:'200',
         msg: 'success',
